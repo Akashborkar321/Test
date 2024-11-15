@@ -11,5 +11,10 @@ public class Test {
         return "gn";
     }
 
+    public Integer mobNum(){
+
+        return 987656890;
+    }
+
 }
 
