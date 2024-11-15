@@ -16,5 +16,9 @@ public class Test {
         return 987656890;
     }
 
+    public void multipleCherryPickTry(){
+        
+        System.out.println("Much needed");
+    }
 }
 
